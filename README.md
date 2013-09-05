@@ -4,7 +4,9 @@
 
 2. Change Directory (aka 'cd') to /Users/teacher/Desktop/Git Hub Repos/Flash-Card-App
 
+```
 cd /Users/teacher/Desktop/Git Hub Repos/Flash-Card-App
+```
 
 3. You are now in your git repo
 
