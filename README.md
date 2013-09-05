@@ -31,3 +31,9 @@ You can see all the other commands by using 'git help'
 4. Use 'git push' to send your changes to GitHub (or any other git repo)
 
 5. Use 'git pull' to pull down the latest files from github
+
+### Notes
+
+Markdown Language links 
+* http://daringfireball.net/projects/markdown/syntax
+
